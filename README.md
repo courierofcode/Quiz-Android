@@ -1,6 +1,6 @@
 <p align="center">
     <a href="" rel="noopener">
-    <img width=600px height=200px src="assets/mockup.jpg" alt="Project Logo"></a>
+    <img width=600px height=200px src="app/src/assets/mockup.jpg" alt="Project Logo"></a>
 </p>
 
 <h3 align="center">Quiz-Android</h3>
