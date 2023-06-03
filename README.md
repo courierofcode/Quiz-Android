@@ -7,9 +7,9 @@
 
 <div align="center">
 
-  [![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)](https://github.com/courierofcode/Templates/)
-  [![GitHub Issues](https://img.shields.io/github/issues/courierofcode/Templates.svg?style=for-the-badge)](https://github.com/courierofcode/Templates/issues)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://github.com/courierofcode/Templates/blob/main/LICENSE)
+  [![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)](https://github.com/courierofcode/Quiz-Android/)
+  [![GitHub Issues](https://img.shields.io/github/issues/courierofcode/Quiz-Android.svg?style=for-the-badge)](https://github.com/courierofcode/Quiz-Android/issues)
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://github.com/courierofcode/Quiz-Android/blob/main/LICENSE)
 </div>
 
 ---
